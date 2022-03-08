@@ -2,6 +2,7 @@
 
 一个阶段的结束称之为“里程碑”（milestone）
 
+
 ## Inception—start up初始化阶段
 
 —— 项目启动
